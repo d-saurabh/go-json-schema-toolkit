@@ -13,7 +13,7 @@ git clone https://github.com/d-saurabh/go-json-schema-toolkit.git
 
 Then, navigate to the project directory:
 ```bash
-cd yourproject
+cd go-json-schema-toolkit
 ```
 
 And install the dependencies:
